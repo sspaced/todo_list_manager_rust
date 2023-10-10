@@ -1,6 +1,5 @@
 use chrono::{NaiveDate, Utc};
 use std::io;
-use std::process::Command;
 
 struct Task {
         title: String,
